@@ -1,0 +1,8 @@
+{
+  "name": "Remix Cổng Học Tập THPT - Điều Hướng Ứng Dụng Lớp 10, 11, 12",
+  "description": "Nền tảng tổng hợp và điều hướng ứng dụng học tập thông minh cho học sinh Cấp 3 (Lớp 10, 11, 12) theo từng môn học và phân môn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
